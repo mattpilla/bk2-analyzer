@@ -1,0 +1,10 @@
+{
+  "name": "bk2-analyzer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "adm-zip": "^0.5.9"
+  }
+}
